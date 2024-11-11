@@ -1,0 +1,7 @@
+{
+  "displayName": "Pymavlink Router",
+  "visible": true,
+  "description": "Routes mavlink data between endpoints with custom message handling.",
+  "configFile": ""
+}
+  

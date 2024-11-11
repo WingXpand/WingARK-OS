@@ -1,0 +1,9 @@
+[Unit]
+Description=Pymavlink Router
+
+[Service]
+ExecStart=/usr/bin/python3 %h/.local/bin/pymavlink-router.py
+Restart=always
+
+[Install]
+WantedBy=default.target

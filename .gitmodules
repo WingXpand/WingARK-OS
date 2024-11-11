@@ -22,3 +22,6 @@
 [submodule "submodules/rtsp-server"]
 	path = submodules/rtsp-server
 	url = https://github.com/ARK-Electronics/rtsp-server.git
+[submodule "submodules/pymavlink-router"]
+	path = submodules/pymavlink-router
+	url = https://github.com/WingXpand/pymavlink-router.git
